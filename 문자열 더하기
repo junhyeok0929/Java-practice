@@ -6,3 +6,5 @@ public class Code02_03 {
 		System.out.println(result);
 	}
 }
+
+//문자열은 "-"가 안됨 마이너스 넣으면 에러뜸
